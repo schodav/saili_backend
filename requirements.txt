@@ -1,3 +1,6 @@
 fastapi
 uvicorn[standard]
 python-multipart
+clerk-backend-api
+asyncio
+python-dotenv
